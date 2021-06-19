@@ -16,7 +16,7 @@ I am an under-grad and a tech-enthusiast. I love programming, writing and travel
 - 👨🏻‍💻 I’m currently working on something cool;
 - 🚀 I’m currently learning Data Structures and Algorithms on [leetcode]();
 - 💬 Ask me about anything, I am happy to help;
-- 📫 How to reach me: gapur.kassym@gmail.com;
+- 📫 How to reach me: kvrudhula07@gmail.com;
 
 </br>
 
