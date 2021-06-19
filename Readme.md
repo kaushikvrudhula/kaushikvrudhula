@@ -4,9 +4,13 @@
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)]()
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/GKassym)
 
+_ _ _
+
 ### Glad to see you here !!
 
 I am an under-grad and a tech-enthusiast. I love programming, writing and traveling.
+
+_ _ _
 
 <img align="right" alt="GIF" src="https://github.com/Gapur/Gapur/blob/master/coding.gif?raw=true" width="408" height="318" />
 
@@ -23,15 +27,21 @@ I am an under-grad and a tech-enthusiast. I love programming, writing and travel
 
 </br>
 </br>
+
 <br>
+
+<br>
+
+_ _ _
 
 📈 **My GitHub Stats:**
 
 <p>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kaushikvrudhula&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-  <br>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaushikvrudhula&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+  
+  <img height="180em" align ="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaushikvrudhula&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
 </p>
 
+_ _ _
 
 
