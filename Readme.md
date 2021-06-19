@@ -37,8 +37,9 @@ _ _ _
 📈 **My GitHub Stats:**
 
 <div>
-  <img height="180em" align="left" src="https://github-readme-stats.vercel.app/api?username=kaushikvrudhula&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-  <img height="180em" align ="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaushikvrudhula&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+  
+  ![alt-text-1](https://github-readme-stats.vercel.app/api?username=kaushikvrudhula&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true "title-1") ![alt-text-2](https://github-readme-stats.vercel.app/api/top-langs/?username=kaushikvrudhula&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8 "title-2")
+  
 </div>
 
 
