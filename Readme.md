@@ -4,7 +4,7 @@
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)]()
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/GKassym)
 
-### Glad to see you here! &nbsp; !
+### Glad to see you here !!
 
 I am an under-grad and a tech-enthusiast. I love programming, writing and traveling.
 
